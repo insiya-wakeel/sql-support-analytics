@@ -1,0 +1,7 @@
+report_month,total_tickets,resolved_tickets,sla_breach_percent,mom_ticket_change_percent
+2025-01,10,8,60.00,NULL
+2025-02,10,8,50.00,0.00
+2025-03,10,8,60.00,0.00
+2025-04,10,8,60.00,0.00
+2025-05,10,8,60.00,0.00
+2025-06,10,8,60.00,0.00

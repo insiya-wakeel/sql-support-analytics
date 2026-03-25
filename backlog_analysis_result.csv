@@ -1,0 +1,13 @@
+ticket_id,agent_name,priority,created_date,ticket_age_days,aging_bucket
+4,Aisha Khan,Medium,04-01-2025,445,Critical
+8,Meera Shah,Low,08-01-2025,441,Critical
+12,Neha Verma,Medium,02-02-2025,416,Critical
+18,Vikram Joshi,Low,08-02-2025,410,Critical
+23,Meera Shah,Low,03-03-2025,387,Critical
+27,Sneha Iyer,Medium,07-03-2025,383,Critical
+33,Ankit Sharma,Medium,03-04-2025,356,Critical
+38,Divya Reddy,Low,08-04-2025,351,Critical
+43,Rahul Deshmukh,Low,03-05-2025,326,Critical
+47,Rahul Deshmukh,Medium,07-05-2025,322,Critical
+53,Ankit Sharma,Low,03-06-2025,295,Critical
+57,Ankit Sharma,Medium,07-06-2025,291,Critical
